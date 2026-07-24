@@ -2,15 +2,17 @@
 # Hi there, I'm Athaya 👋 🚀 Software Engineering Student | Web &amp; Logic Developer  Halo! Saya adalah seorang siswa SMK jurusan Rekayasa Perangkat Lunak (RPL) yang fokus pada pengembangan web, logika pemrograman, dan pembuatan sistem yang efisien.
 
 
-### 📊 GitHub Profile Summary Cards
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AthayaQois&theme=dracula&hide_border=true)](https://github.com/AthayaQois)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AthayaQois&theme=midnight_purple)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AthayaQois&theme=midnight_purple)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AthayaQois&theme=midnight_purple)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthayaQois&theme=midnight_purple)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AthayaQois&theme=midnight_purple)
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
+</p>
 
-
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/3-stats-by-day-cur.svg" width="49%" />
+</p>
 
 ## 📊 Statistics
 

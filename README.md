@@ -35,5 +35,26 @@
 ![Stats](./profile-summary-card-output/default/3-stats.svg)
 ![Productive Time](./profile-summary-card-output/default/4-productive-time.svg)
 
+
+
+
+
+
+
+
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/3-stats-by-day-cur.svg" width="49%" />
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
+</p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AthayaQois&theme=midnight_purple)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthayaQois&theme=midnight_purple)

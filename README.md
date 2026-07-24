@@ -13,7 +13,7 @@
 
 ## 📊 Statistics
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark&hide_border=true)](https://github.com/USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark&hide_border=true)](https://github.com/AthayaQois)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME&theme=2077)
 

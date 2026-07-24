@@ -17,7 +17,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AthayaQois&theme=github-dark&hide_border=true)](https://github.com/AthayaQois)
 
 <p align="center">
-  <img src="./profile-summary-card-output/midnight purple/0-profile-details.svg" alt="Stats" width="100%" />
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Stats" width="100%" />
 </p>
 
 <p align="center">

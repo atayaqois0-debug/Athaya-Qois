@@ -29,3 +29,19 @@
   <img src="./profile-summary-card-output/dracula/3-stats-by-day-cur.svg" width="49%" />
   <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
 </p>
+
+## 📊 Statistics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/3-stats-by-day-cur.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
+</p>

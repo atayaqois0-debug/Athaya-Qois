@@ -3,7 +3,7 @@
 
 ### 📊 GitHub Profile Summary Cards
 
-![Profile Details](./profile-summary-card-output/default/0-profile-details.svg)
+![Profile Details](![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthayaQois&theme=midnight_purple))
 ![Repos Per Language](./profile-summary-card-output/default/1-repos-per-language.svg)
 ![Most Commit Language](./profile-summary-card-output/default/2-most-commit-language.svg)
 ![Stats](./profile-summary-card-output/default/3-stats.svg)

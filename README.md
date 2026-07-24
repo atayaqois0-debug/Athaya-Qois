@@ -3,6 +3,18 @@
 
 ### 📊 GitHub Profile Summary Cards
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AthayaQois&theme=midnight_purple)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AthayaQois&theme=midnight_purple)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AthayaQois&theme=midnight_purple)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthayaQois&theme=midnight_purple)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AthayaQois&theme=midnight_purple)
+
+
+
+
+
+### 📊 GitHub Profile Summary Cards
+
 ![Profile Details](![](./cards/stats?username=AthayaQois&theme=midnight_purple)
 ![Repos Per Language](./profile-summary-card-output/default/1-repos-per-language.svg)
 ![Most Commit Language](./profile-summary-card-output/default/2-most-commit-language.svg)

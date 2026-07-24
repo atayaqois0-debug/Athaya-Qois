@@ -3,3 +3,4 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AthayaQois&theme=midnight_purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthayaQois&theme=midnight_purple)

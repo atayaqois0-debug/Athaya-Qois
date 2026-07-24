@@ -29,6 +29,3 @@
   <img src="./profile-summary-card-output/dracula/3-stats-by-day-cur.svg" width="49%" />
   <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
 </p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AthayaQois&theme=midnight_purple)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthayaQois&theme=midnight_purple)

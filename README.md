@@ -11,16 +11,18 @@
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AthayaQois&theme=midnight_purple)
 
 
+
 ## 📊 Statistics
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark&hide_border=true)](https://github.com/AthayaQois)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AthayaQois&theme=github-dark&hide_border=true)](https://github.com/AthayaQois)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME&theme=2077)
+<p align="center">
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Stats" width="100%" />
+</p>
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME&theme=2077)
-
-
-
+<p align="center">
+  <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Top Languages by Repo" width="100%" />
+</p>
 
 
 ### 📊 GitHub Profile Summary Cards
